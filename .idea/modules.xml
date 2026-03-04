@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATM/ATM.iml" filepath="$PROJECT_DIR$/ATM/ATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course/KG/Ide_part1/Ide_part1.iml" filepath="$PROJECT_DIR$/Course/KG/Ide_part1/Ide_part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course/KG/Ide_part2/Ide_part2.iml" filepath="$PROJECT_DIR$/Course/KG/Ide_part2/Ide_part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course/KG/KG.iml" filepath="$PROJECT_DIR$/Course/KG/KG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Languages.iml" filepath="$PROJECT_DIR$/Languages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course/KG/OOPs/OOPs.iml" filepath="$PROJECT_DIR$/Course/KG/OOPs/OOPs.iml" />
+    </modules>
+  </component>
+</project>

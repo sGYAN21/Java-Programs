@@ -1,0 +1,5 @@
+map.get(2)---get the occurence of 2 in Hash
+ 
+map.put(3,1)---put the 3 at 1 times in hash 
+map.containskey(2)----
+map.getOrDefault(2,map.getordefault(1,0)+1)
